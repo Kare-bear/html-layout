@@ -1,0 +1,16 @@
+header{
+    border: 5px solid black;
+    width: 92%;
+    height: 25%;
+    position: relative;
+    left: 3%;
+}
+
+.div1{
+    padding-top: 45px;
+    height: 65%;
+    width: 5%;
+    background-color: purple;
+
+
+}
