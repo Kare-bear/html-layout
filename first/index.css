@@ -1,35 +1,32 @@
-*{
-    margin: 0;
-    border:0
-}
-
-header{
-    height: 15vh;
-    background-color: rgba(61, 60, 60, 0.986);
-}
-
-div{
-    height: 100vh;
-    width: 100vw;
-}
-
-.aside1{
-    height:75vh;
-    width:15vw;
-    background-color: lightgrey;
-    align:right;
+body{
+    margin:0px;
+    background-color:rgb(219, 219, 219);
+    width:100vw;
+    height:100vh;
 
 }
 
-
-.aside2{
-    height:75vh;
-    width:15vw;
-    background-color: lightgrey;
-    left:20px;
+.header{
+    margin: 0px;
+    height:20vh ;
+    width: 100%;
+    background-color:rgb(109, 109, 109);
 }
 
-footer{
-    height: 10vh;
-    background-color: rgb(24, 24, 24);
+.main-content{
+    position: relative;
+    left: 12%;
+    margin:0px;
+    background-color: white;
+    height:65vh ;
+    width:75% ;
+}
+
+.footer{
+    position: relative;
+    left: 12%;
+    margin: 0px;
+    height:10vh;
+    width:75% ;
+    background-color: rgb(77, 77, 77);
 }
