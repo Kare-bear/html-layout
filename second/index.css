@@ -7,10 +7,26 @@ header{
 }
 
 .div1{
-    padding-top: 45px;
-    height: 65%;
-    width: 5%;
-    background-color: purple;
+    margin:unset;
+    margin-left:2%;
+    margin-top:5%;
+    height: 73%;
+    width: 6%;
+    background-color: rgb(73, 5, 73);
+}
 
+.div2{
+    margin-left: 14%;
+    margin-top: -21%;
+    height: 90%;
+    width: 45%;
+    background-color:rgb(3, 85, 3);
+}
 
+.div3{
+    height:80%;
+    width: 20%;
+    border-radius: 50%;
+    background-color: rgb(63, 189, 228);
+    
 }
